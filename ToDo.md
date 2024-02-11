@@ -1,0 +1,4 @@
+- Name Entity Recognition (NER) 
+- Denoise the text
+- Remove the special characters
+- Remove the numbers and check
