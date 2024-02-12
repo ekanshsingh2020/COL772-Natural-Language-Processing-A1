@@ -1,0 +1,93 @@
+Micro score for NB with alpha=0.01:0.9164179104477613
+Macro score for NB with alpha=0.01:0.9315237116887807
+=======================================================
+Micro score for NB with alpha=0.02:0.9136904761904762
+Macro score for NB with alpha=0.02:0.9298611652772367
+=======================================================
+Micro score for NB with alpha=0.03:0.9126559714795008
+Macro score for NB with alpha=0.03:0.9295689028423563
+=======================================================
+Micro score for NB with alpha=0.04:0.9126559714795008
+Macro score for NB with alpha=0.04:0.9295689028423563
+=======================================================
+Micro score for NB with alpha=0.05:0.9126559714795008
+Macro score for NB with alpha=0.05:0.9295689028423563
+=======================================================
+Micro score for NB with alpha=0.06:0.9109792284866469
+Macro score for NB with alpha=0.06:0.9287735919582526
+=======================================================
+Micro score for NB with alpha=0.07:0.9109792284866469
+Macro score for NB with alpha=0.07:0.9284375075431587
+=======================================================
+Micro score for NB with alpha=0.08:0.9116251482799526
+Macro score for NB with alpha=0.08:0.9305320691123211
+=======================================================
+Micro score for NB with alpha=0.09:0.912218268090154
+Macro score for NB with alpha=0.09:0.9309455100683585
+=======================================================
+Micro score for NB with alpha=0.1:0.912218268090154
+Macro score for NB with alpha=0.1:0.9307558891890824
+=======================================================
+Micro score for NB with alpha=0.15:0.911032028469751
+Macro score for NB with alpha=0.15:0.9285306388557867
+=======================================================
+Micro score for NB with alpha=0.2:0.9105450236966824
+Macro score for NB with alpha=0.2:0.92887008166166
+=======================================================
+Micro score for NB with alpha=0.25:0.9094674556213018
+Macro score for NB with alpha=0.25:0.9281095274158515
+=======================================================
+Micro score for NB with alpha=0.3:0.908929627439385
+Macro score for NB with alpha=0.3:0.9275962084207313
+=======================================================
+Micro score for NB with alpha=0.35:0.9095209934949734
+Macro score for NB with alpha=0.35:0.9282485586446464
+=======================================================
+Micro score for NB with alpha=0.4:0.9083924349881797
+Macro score for NB with alpha=0.4:0.9268008435753057
+=======================================================
+Micro score for NB with alpha=0.45:0.9089834515366431
+Macro score for NB with alpha=0.45:0.9272202631488201
+=======================================================
+Micro score for NB with alpha=0.5:0.9083924349881797
+Macro score for NB with alpha=0.5:0.9270076630496068
+=======================================================
+Micro score for NB with alpha=0.6:0.9073199527744983
+Macro score for NB with alpha=0.6:0.9263511453440124
+=======================================================
+Micro score for NB with alpha=0.65:0.9061393152302243
+Macro score for NB with alpha=0.65:0.9256988273388084
+=======================================================
+Micro score for NB with alpha=0.7:0.9049586776859504
+Macro score for NB with alpha=0.7:0.924530255085812
+=======================================================
+Micro score for NB with alpha=0.75:0.9049586776859504
+Macro score for NB with alpha=0.75:0.9238003188288402
+=======================================================
+Micro score for NB with alpha=0.8:0.9054932073242764
+Macro score for NB with alpha=0.8:0.9241869957275726
+=======================================================
+Micro score for NB with alpha=0.85:0.9054932073242764
+Macro score for NB with alpha=0.85:0.9240598152261571
+=======================================================
+Micro score for NB with alpha=0.9:0.9038348082595871
+Macro score for NB with alpha=0.9:0.9231280930022051
+=======================================================
+Micro score for NB with alpha=0.95:0.9038348082595871
+Macro score for NB with alpha=0.95:0.9231280930022051
+=======================================================
+Micro score for NB with alpha=1:0.903244837758112
+Macro score for NB with alpha=1:0.922159395402988
+=======================================================
+Micro score for NB with alpha=1e-05:0.9201680672268907
+Macro score for NB with alpha=1e-05:0.9296221709019865
+=======================================================
+Micro score for NB with alpha=0.0001:0.9201680672268907
+Macro score for NB with alpha=0.0001:0.9304510617953468
+=======================================================
+Micro score for NB with alpha=0.001:0.9179640718562875
+Macro score for NB with alpha=0.001:0.9301947867461452
+=======================================================
+Micro score for NB with alpha=1e-06:0.9201201201201202
+Macro score for NB with alpha=1e-06:0.9301774017479071
+=======================================================
