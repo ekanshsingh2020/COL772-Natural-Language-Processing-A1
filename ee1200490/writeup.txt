@@ -1,0 +1,21 @@
+I had discussion with:
+1. Tanish Gupta
+2. Yuyutsu Saini
+3. Atif Anwer
+
+Strategy:
+1. I intially just tried Logistic Regression but it was pretty slow and not giving good results.
+2. Then I tried SVM but it was really slow and took more than 1.5 hours to train.
+3. Then I tried Naive Bayes and it was really fast and gave pretty good results.
+4. When I recieved the new validation data, I tried to use the same model but the accuracy was coming around 80%.
+5. Then I tried some different pairs of n_grams which was a sort of hyperparameter tuning and the accuracy increased to 91%.
+6. After that I tried de-noising the data but training on the train data and then removing the samples which were not predicted correctly and then trained on the same training data.
+7. This also increased my accuracy a bit.
+8. Then I also tried adding bigrams to my features and it increased the accuracy to 93%.
+9. I faced some memory issues while doing this because after I set the ngrams range to 4,6 with character analyser and bigram features.
+10. To tackle those, I tried optimizing the code by deleting the variables which were not in use.
+11. This gave me the freedom to test with some more features.
+12. I also did UpSampling because the imbalance in the data was too much.
+13. I also did hyperparameter tuning for the smoothing parameter of the Naive Bayes.
+14. I also tried to use the TfidfVectorizer instead of CountVectorizer but it was giving me less accuracy.
+15. I tried out various things like making all the text to lower case, removing the stop words, etc. but it was not giving me any better results.
