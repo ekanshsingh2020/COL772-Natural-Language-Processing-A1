@@ -1,10 +1,5 @@
-- Name Entity Recognition (NER) 
 - Denoise the text
-- Remove the special characters
-- Remove the numbers and check
 - Upscaling the classes
-- Last three characters as features
-- Use word analyser as well and take union of both
-- Do smoothing
 - Try out removing the stop words
 - Try out removing the capital words
+- Try out upscaling manually
