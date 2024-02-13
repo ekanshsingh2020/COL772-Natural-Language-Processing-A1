@@ -9,7 +9,7 @@ import numpy as np
 # Step 1: Load data from JSON file
 with open('a1_data/train.json', 'r',encoding='utf-8') as f:
     data_train = json.load(f)
-with open('valid_new.json', 'r',encoding='utf-8') as f:
+with open('a1_data/valid_new.json', 'r',encoding='utf-8') as f:
     data_test = json.load(f)
 with open('a1_data/valid.json', 'r',encoding='utf-8') as f:
     data_val = json.load(f)
